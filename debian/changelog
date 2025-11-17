@@ -1,4 +1,4 @@
-live-boot (1:20151213-vyos0) UNRELEASED; urgency=medium
+live-boot (20151213) UNRELEASED; urgency=medium
 
   * Non-maintainer upload.
   * Mark VyOS version
